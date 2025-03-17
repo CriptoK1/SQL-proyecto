@@ -1,2 +1,3 @@
 # SQL-proyecto
-nicol cordova maldonado
+nicol cordoba maldonado
+kevin Montealegre
